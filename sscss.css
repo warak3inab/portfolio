@@ -1,0 +1,23 @@
+th {
+    color: darkred;
+    border: 3px solid black;
+}
+
+td {
+    border: 1px solid black;
+    font-style: bold;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: darkred;
+    font-size: 60px;
+    text-align: center;
+    font: 'Gill Sans';
+}
+table {
+    text-align: center;
+}
