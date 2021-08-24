@@ -1,6 +1,7 @@
 th {
     color: darkred;
     border: 3px solid black;
+    font-size:30px;
 }
 
 td {
@@ -19,5 +20,12 @@ h1 {
     font: 'Gill Sans';
 }
 table {
+    text-align: center;
+}
+a::after{
+    content:"|";
+}
+a:last-child::after {content:""}
+#nav{
     text-align: center;
 }
